@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|c:\\users\\not4l\\documents\\programacion\\juegoprogra2\\royale-master\\croyale.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|solutionrelative:croyale.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|c:\\users\\not4l\\documents\\programacion\\juegoprogra2\\royale-master\\croyale.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|solutionrelative:croyale.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|c:\\users\\not4l\\documents\\programacion\\juegoprogra2\\royale-master\\croyale.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1D8F49-1454-4403-8DD2-99B22F860F76}|CRoyale.Client\\CRoyale.Client.csproj|solutionrelative:croyale.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E79C1B-66CF-4F20-A0DA-5C8979CEE5E1}|CRoyale.Domain\\CRoyale.Domain.csproj|c:\\users\\not4l\\documents\\programacion\\juegoprogra2\\royale-master\\croyale.domain\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E79C1B-66CF-4F20-A0DA-5C8979CEE5E1}|CRoyale.Domain\\CRoyale.Domain.csproj|solutionrelative:croyale.domain\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Form1.cs",
+              "RelativeDocumentMoniker": "CRoyale.Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRoyale.Client\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:28:22.851Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Form1.cs",
+              "RelativeDocumentMoniker": "CRoyale.Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Form1.cs",
+              "RelativeToolTip": "CRoyale.Client\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:28:25.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Domain\\Card.cs",
+              "RelativeDocumentMoniker": "CRoyale.Domain\\Card.cs",
+              "ToolTip": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Domain\\Card.cs",
+              "RelativeToolTip": "CRoyale.Domain\\Card.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:25:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Program.cs",
+              "RelativeDocumentMoniker": "CRoyale.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Not4l\\Documents\\programacion\\juegoProgra2\\Royale-master\\CRoyale.Client\\Program.cs",
+              "RelativeToolTip": "CRoyale.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:25:22.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
