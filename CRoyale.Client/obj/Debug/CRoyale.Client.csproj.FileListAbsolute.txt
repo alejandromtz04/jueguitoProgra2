@@ -24,3 +24,16 @@ C:\Users\Not4l\Documents\programacion\juegoProgra2\Royale-master\CRoyale.Client\
 C:\Users\Not4l\Documents\programacion\juegoProgra2\Royale-master\CRoyale.Client\obj\Debug\CRoyale..FBFA5098.Up2Date
 C:\Users\Not4l\Documents\programacion\juegoProgra2\Royale-master\CRoyale.Client\obj\Debug\CRoyale.Client.exe
 C:\Users\Not4l\Documents\programacion\juegoProgra2\Royale-master\CRoyale.Client\obj\Debug\CRoyale.Client.pdb
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\bin\Debug\CRoyale.Client.exe.config
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\bin\Debug\CRoyale.Client.exe
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\bin\Debug\CRoyale.Client.pdb
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\bin\Debug\CRoyale.Domain.dll
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\bin\Debug\CRoyale.Domain.pdb
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.csproj.AssemblyReference.cache
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.Form1.resources
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.Properties.Resources.resources
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.csproj.GenerateResource.cache
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.csproj.CoreCompileInputs.cache
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale..FBFA5098.Up2Date
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.exe
+C:\Users\Not4l\Documents\programacion\juegoProgra2\jueguitoProgra2\CRoyale.Client\obj\Debug\CRoyale.Client.pdb
